@@ -1,0 +1,166 @@
+Total number of philosophers: 6
+Total number of hungry philosophers: 4
+
+Hungry philosopher position: 5
+Hungry philosopher position: 1
+Hungry philosopher position: 3
+Hungry philosopher position: 4
+
+
+-----------------
+Choose one scenario: 
+[1] One can eat at a time
+[2] Two can eat at a time
+Enter choice: 
+1
+
+
+-----------------
+Philosopher 5 is eating...
+Philosopher 1 is waiting...
+Philosopher 3 is waiting...
+Philosopher 4 is waiting...
+
+Philosopher 1 is eating...
+Philosopher 3 is waiting...
+Philosopher 4 is waiting...
+
+Philosopher 3 is eating...
+Philosopher 4 is waiting...
+
+Philosopher 4 is eating...
+
+
+
+All hungry philosophers are now full.
+
+**
+Total number of philosophers: 6
+Total number of hungry philosophers: 4
+
+Hungry philosopher position: 3
+Hungry philosopher position: 1
+Hungry philosopher position: 5
+Hungry philosopher position: 2
+
+
+-----------------
+Choose one scenario: 
+[1] One can eat at a time
+[2] Two can eat at a time
+Enter choice: 
+2
+
+
+-----------------
+Philosopher 1 and Philosopher 3 are eating...
+Philosopher 2 is waiting...
+Philosopher 5 is waiting...
+Philosopher 2 and Philosopher 5 are eating...
+All hungry philosophers are now full.
+
+**
+Total number of philosophers: 7
+Total number of hungry philosophers: 5
+
+Hungry philosopher position: 1
+Hungry philosopher position: 2
+Hungry philosopher position: 3
+Hungry philosopher position: 4
+Hungry philosopher position: 5
+
+
+-----------------
+Choose one scenario: 
+[1] One can eat at a time
+[2] Two can eat at a time
+Enter choice: 
+2
+
+
+-----------------
+Philosopher 1 and Philosopher 3 are eating...
+Philosopher 2 is waiting...
+Philosopher 4 is waiting...
+Philosopher 5 is waiting...
+Philosopher 2 and Philosopher 4 are eating...
+Philosopher 5 is waiting...
+
+Philosopher 5 is now eating...
+All hungry philosophers are now full.
+
+**
+Total number of philosophers: 5
+Total number of hungry philosophers: 4
+
+Hungry philosopher position: 2
+Hungry philosopher position: 3
+Hungry philosopher position: 4
+Hungry philosopher position: 1
+
+
+-----------------
+Choose one scenario: 
+[1] One can eat at a time
+[2] Two can eat at a time
+Enter choice: 
+1
+
+
+-----------------
+Philosopher 2 is eating...
+Philosopher 1 is waiting...
+Philosopher 3 is waiting...
+Philosopher 4 is waiting...
+
+Philosopher 3 is eating...
+Philosopher 1 is waiting...
+Philosopher 4 is waiting...
+
+Philosopher 4 is eating...
+Philosopher 1 is waiting...
+
+Philosopher 1 is eating...
+
+
+
+All hungry philosophers are now full.
+
+**
+Total number of philosophers: 5
+Total number of hungry philosophers: 1
+
+Hungry philosopher position: 3
+
+
+-----------------
+Choose one scenario: 
+[1] One can eat at a time
+[2] Two can eat at a time
+Enter choice: 
+2
+
+
+-----------------
+
+Philosopher 3 is now eating...
+All hungry philosophers are now full.
+
+**
+Total number of philosophers: 6
+Total number of hungry philosophers: 2
+
+Hungry philosopher position: 3
+Hungry philosopher position: 4
+
+
+-----------------
+Choose one scenario: 
+[1] One can eat at a time
+[2] Two can eat at a time
+Enter choice: 
+2
+
+
+-----------------
+Deadlock
